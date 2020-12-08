@@ -40,8 +40,9 @@ By Mid-August, most of the upperclassman had returned to campus. Freshman move-i
 <!-- There is right-side text on this slide -->
 ```auspiceMainDisplayMarkdown
 # SARS-CoV-2 cases over time at UW-Madison  
-![UWmadisoncases](UWCases.png])
-
+<div>
+  <img alt="SARS-CoV-2 cases over time at UW-Madison" width="700" src="https://github.com/gagekmoreno/SARS-CoV-2-at-Wisconsin-Universities/blob/main/narratives/UWCases.png"/>
+</div>
 Screenshot from https://covidresponse.wisc.edu/dashboard/
 ```
 
