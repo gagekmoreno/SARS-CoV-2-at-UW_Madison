@@ -1,0 +1,20 @@
+campus	UW-Madison	#c5050c
+campus	Marquette	#003366
+campus	UW-Milwaukee	#FFBD00
+campus	UW-Madison Athletics	#6a040f
+dorm	Witte	#00798C
+dorm	Sellery	#9DCE5C
+CycleThresh	10 - 13 	#6a040f
+CycleThresh	13 - 16 	#d00000
+CycleThresh	16 - 20 	#e85d04
+CycleThresh	20 - 24 	#f48c06
+CycleThresh	24 - 30 	#ffba08
+age	0 - 17	#caf0f8
+age	17 - 23	#ade8f4
+age	23 - 30	#90e0ef
+age	30 - 40	#48cae4
+age	40 - 50	#00b4d8
+age	50 - 60	#0096c7
+age	60 - 70	#0077b6
+age	70 - 80	#023e8a
+age	80+	#03045e
