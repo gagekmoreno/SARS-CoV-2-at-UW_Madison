@@ -1,0 +1,13 @@
+#Summary
+#Generated on	Mon Feb 15 13:52:31 CST 2021
+#Version	5
+chroms	1
+bases	45903
+defined	29903
+undefined	16000
+contigs	1
+scaffolds	1
+interpad	300
+source	/Volumes/GoogleDrive/My Drive/SARS-CoV-2_Sequencing/CDCMadison/ref.fa
+bytes	30414
+last modified	1594393046000
